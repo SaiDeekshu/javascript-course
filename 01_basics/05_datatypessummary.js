@@ -25,3 +25,21 @@ const my Function=function(){
 }
 console.log(typeof myFunction);
 
+
+//********************************** */
+//stack(primitive), HEAP (Non-primitive)
+let myYouTubename="Deekshucherukrui@gmail.com"
+anothername="cahi aur code"
+console.log("myYoutubename");
+console.log("anothername");
+ let USerOne={
+    email:"deekshucherukrui@gmail.com",
+    upi:"user@abl";
+    
+ }
+ let userTwo
+    userTwo.email="Deekshu@gmail.com"
+
+    console.log(userOne.email);
+    console.log(userTwo.email);
+ 
